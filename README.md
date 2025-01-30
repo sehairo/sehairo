@@ -7,7 +7,7 @@
 - ⚡ Fun fact: ...
 
 <div align="center">
-  <img height="200" src="https://imgur.com/a/F9KI5NN"  />
+  <img height="200" src="https://imgur.com/a/F9KI5NN.gif"  />
 </div>
 
 ###
