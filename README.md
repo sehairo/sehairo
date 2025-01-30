@@ -6,11 +6,7 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-<div align="center">
-! [Pixel Animated Artwork](https://imgur.com/a/F9KI5NN)
-</div>
-
-###
+![Pixel Animated Artwork](https://imgur.com/a/F9KI5NN)
 
 <!---
 sehairo/sehairo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
