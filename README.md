@@ -7,7 +7,7 @@
 - ⚡ Fun fact: ...
 
 <div align="center">
-![Pixel Animated Artwork](https://imgur.com/a/F9KI5NN)
+! [Pixel Animated Artwork](https://imgur.com/a/F9KI5NN)
 </div>
 
 ###
