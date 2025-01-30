@@ -6,7 +6,7 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-!(https://imgur.com/a/F9KI5NN)
+!(https://imgur.com/a/F9KI5NN.gif)
 
 <!---
 sehairo/sehairo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
