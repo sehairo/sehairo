@@ -6,7 +6,7 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-!(https://imgur.com/a/F9KI5NN.gif)
+![A cute kitten playing](https://media.giphy.com/media/l0MYt6C0pC30b8iXo/giphy.gif)
 
 <!---
 sehairo/sehairo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
