@@ -1,6 +1,11 @@
 ![Animated Pixel Artwork](https://i.imgur.com/kiLrq4E.gif)
 
 <div align="center">
+  about me
+</div>
+
+###
+
 - 👋 Hi, I’m @sehairo
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
@@ -8,9 +13,6 @@
 - 📫 How to reach me ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-</div>
-
-###
 
 <!---
 sehairo/sehairo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
