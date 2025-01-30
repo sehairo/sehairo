@@ -6,7 +6,7 @@
 
 ###
 
-- 👋 you can call me 
+- 👋 you can call me seh
 - 👀 me is . . . . . minimalist, rationalist
 - 🌱 me likes . . .  community-driven things, pixel artworks
 - 📫 reach me . . .  @seh:we2.ee using a [matrix client](https://matrix.org/clients/)
